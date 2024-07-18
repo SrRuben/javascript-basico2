@@ -27,5 +27,5 @@ console.log(arreglo.length);
 //recorridos
 for(let i=0; i<arreglo.length; i++) {
     debugger; //para la ejecucion de esta linea
-    console.log(arreglo[i])
+    console.log(arreglo[i]);
 }
